@@ -31,6 +31,7 @@ Screenshots are stored in `WebpageView/`:
 - Orders: `WebpageView/Orders.png`
 - Shop: `WebpageView/Shop - 1.png`
 - Cart: `WebpageView/Cart - 1.png`
+![Dashboard](WebpageView/Dashboard.png)
 
 
 
