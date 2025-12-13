@@ -1,0 +1,14 @@
+# Environment secrets
+.env
+
+# Composer dependencies (install with composer install after cloning)
+vendor/
+
+# Logs / cache
+*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
