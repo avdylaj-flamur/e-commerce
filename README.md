@@ -1,6 +1,7 @@
 # e-commerce (PHP + MySQL)
 
-A PHP/MySQL e-commerce website with a customer shopping flow (shop → product → cart → checkout) and an admin dashboard for managing products, categories, promotions, and orders.
+## Introduction
+This is a fully featured eCommerce website developed in PHP. It provides an intuitive and user-friendly platform for customers to browse and purchase products online. The website features an extensive product catalog, secure user authentication, advanced product search and filtering, shopping cart functionality, user profile management, credit card payment form, and integrated PayPal payment plus transportation details and process included as part of Paypal payment
 
 ## Features
 
@@ -23,15 +24,27 @@ A PHP/MySQL e-commerce website with a customer shopping flow (shop → product �
 Admin pages are protected. If you are not an admin, you will see “You don't have permissions to view this page!” when opening dashboard sections.
 
 ## Screenshots
-Screenshots are stored in `WebpageView/`:
-- Dashboard: `WebpageView/Dashboard.png`
-- Promotions: `WebpageView/Promotions.png`
-- Categories: `WebpageView/Categories.png`
-- Products: `WebpageView/Products - 1.png`
-- Orders: `WebpageView/Orders.png`
-- Shop: `WebpageView/Shop - 1.png`
-- Cart: `WebpageView/Cart - 1.png`
-![Dashboard](WebpageView/Dashboard.png)
+## Screenshots
+![Main 1](WebpageView/Main-1.png)
+![Main 2](WebpageView/Main-2.png)
+![Main 3](WebpageView/Main-3.png)
+
+![Shop 1](WebpageView/Shop-1.png)
+![Shop 2](WebpageView/Shop-2.png)
+![Product](WebpageView/Products-1.png)
+![Cart](WebpageView/Cart-1.png)
+![Checkout](WebpageView/Checkout.png)
+
+![Login](WebpageView/Login.png)
+![Register](WebpageView/Register.png)
+![Profile](WebpageView/Profile.png)
+
+![Dashboard](WebpageView/Dashbord.png)
+![Promotions](WebpageView/Promotions.png)
+![Categories](WebpageView/Categories.png)
+![Add Products](WebpageView/AddProducts.png)
+
+
 
 
 
