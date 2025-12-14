@@ -23,7 +23,7 @@ This is a fully featured eCommerce website developed in PHP. It provides an intu
 ### Access Control
 Admin pages are protected. If you are not an admin, you will see “You don't have permissions to view this page!” when opening dashboard sections.
 
-## Screenshots
+
 ## Screenshots
 ![Main 1](WebpageView/Main-1.png)
 ![Main 2](WebpageView/Main-2.png)
